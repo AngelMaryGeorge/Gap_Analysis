@@ -11,7 +11,7 @@ Description: Tools and examples for analyzing logs from various sources.
  - GridLink operates 10 transformer stations and 50 distribution stations that cover two medium sized cities and the surrounding areas.
  - GridLink services customers in two relatively large cities and the surrounding area.
 
- ### Systsem and Network Architecture
+ ### System and Network Architecture
 
  - GridLink operates an Operational Technology (OT) network that is used to manage the physical processes of the utility. 
  - The company also operates a corporate or IT network that is separated from the OT network by firewalls and an industrial DMZ which is used to securely move data between the corporate and OT networks.
@@ -73,7 +73,7 @@ Description: Tools and examples for analyzing logs from various sources.
  - Anca is responsible for managing GridLink’s Security Operations Centre. Her team provides security monitoring services of GridLink’s OT network and systems and they are also responsible for responding to incidents.
  - Rory is GridLink’s Threat and Vulnerability Management team lead. Rory and his team manage a commercial vulnerabilities
 
- ## The following are your findings further to the meeting:
+ ## The following are the findings further to the meeting:
 
  ### Remote Access
 
@@ -104,5 +104,5 @@ Anca also explains that her team maintains separate incident response plans, one
 
 I have completed the security gap assessment based on the information provided and shared the link to the report.
 
-[Security Gap Assessment Report](./Gap Assessment Report.pdf)
+[Security Gap Assessment Report](./Gap%20Assessment%20Report.pdf)
 
