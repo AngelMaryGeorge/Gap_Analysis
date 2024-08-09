@@ -1,7 +1,6 @@
 # Scenario
 
 Your company has won a Request for Proposal (RFP) submission to provide a security gap assessment and recommend a secure network architecture for GridLink Utilities, a medium-sized utility responsible for the transmission and distribution of electricity. 
-Description: Tools and examples for analyzing logs from various sources.
 
 ## System Overview
 
@@ -73,7 +72,7 @@ Description: Tools and examples for analyzing logs from various sources.
  - Anca is responsible for managing GridLink’s Security Operations Centre. Her team provides security monitoring services of GridLink’s OT network and systems and they are also responsible for responding to incidents.
  - Rory is GridLink’s Threat and Vulnerability Management team lead. Rory and his team manage a commercial vulnerabilities
 
- ## The following are the findings further to the meeting:
+ ## The following are the findings to the meeting:
 
  ### Remote Access
 
